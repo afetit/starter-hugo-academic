@@ -1,8 +1,8 @@
 ---
-title: Ahmed Fetit
-role: Senior Fellow
+title: Test
+role: Test
 avatar_filename: null
-bio: AI/Machine Learning, Medical Imaging
+bio: Test
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -51,10 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Dr Ahmed Fetit is an AI/machine learning scientist with a strong focus on medical imaging. He has extensive experience in developing computational models for a variety of data, including brain MRI, retinal fundus scans, and microscopy imaging. His research work has made novel contributions to both the development of new techniques as well as applications in translational research.\
-\
-In addition to his research work, Ahmed is an experienced educator who enjoys teaching and project supervision. He has mentored and supervised undergraduate and postgraduate students at Imperial College London, leading several projects to publication.\
-\
-In his current role at Imperial's AI for Healthcare Centre, he has developed innovative training for both technical and general audience, including an eLearning course commissioned by the NIHR, as well as designing regulatory training for PhD students.\
-\
-Ahmed holds a PhD from the University of Warwick (2016), where he researched applications of image texture analysis and machine learning for the diagnosis and prognosis of tumours from clinical MRI data. He received his MSc and BEng (Hons) from the University of Birmingham.
+Test
