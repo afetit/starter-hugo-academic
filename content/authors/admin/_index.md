@@ -1,8 +1,8 @@
 ---
 title: Ahmed Fetit
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Senior Fellow
+avatar_filename: null
+bio: AI/Machine Learning, Medical Imaging
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Imoperial College London
+    url: https://www.imperial.ac.uk/people/a.fetit
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -51,6 +51,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Dr Ahmed Fetit is an AI/machine learning scientist with a strong focus on medical imaging. He has extensive experience in developing computational models for a variety of data, including brain MRI, retinal fundus scans, and microscopy imaging. His research work has made novel contributions to both the development of new techniques as well as applications in translational research.\
+\
+In addition to his research work, Ahmed is an experienced educator who enjoys teaching and project supervision. He has mentored and supervised undergraduate and postgraduate students at Imperial College London, leading several projects to publication.\
+\
+In his current role at Imperial's AI for Healthcare Centre, he has developed innovative training for both technical and general audience, including an eLearning course commissioned by the NIHR, as well as designing regulatory training for PhD students.\
+\
+Ahmed holds a PhD from the University of Warwick (2016), where he researched applications of image texture analysis and machine learning for the diagnosis and prognosis of tumours from clinical MRI data. He received his MSc and BEng (Hons) from the University of Birmingham.
